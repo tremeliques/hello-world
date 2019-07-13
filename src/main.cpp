@@ -64,6 +64,7 @@ void loop() {
         nvs_close(my_handle);
     }
 
+    //Olá Mundo
     Serial.printf("\n");
 
     // Restart module
